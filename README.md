@@ -6,7 +6,7 @@ Nantes • **System Administrator** at [Tranquilit](https://www.tranquilit.fr)
 
 ## 🔧 About me
 
-- 🛠️ I mainly work on the **WAPT project** at Tranquilit ([doc.wapt.fr](https://doc.wapt.fr)).  
+- 🛠️ I mainly work on the **WAPT project** and various **Samba4 projects** at Tranquilit ([doc.wapt.fr](https://doc.wapt.fr)).  
 - 🧪 I enjoy publishing small Python tools that make admins’ lives easier.  
 - 🎸 When I’m not coding: guitar and home automation projects.
 
