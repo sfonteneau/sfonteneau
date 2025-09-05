@@ -1,6 +1,6 @@
 # Hi, I’m **Simon Fonteneau** 👋
 
-Nantes • **System Administrator** at [Tranquilit](https://www.tranquilit.fr) 
+Nantes • **System Administrator** at [Tranquilit](https://www.tranquil.it) 
 
 ---
 
